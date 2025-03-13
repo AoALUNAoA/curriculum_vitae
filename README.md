@@ -1,5 +1,4 @@
 # curriculum_vitae
-Fun repo
 <br>
 TimeStamp: 2025/3/13<br>
 LUN CV<br>
